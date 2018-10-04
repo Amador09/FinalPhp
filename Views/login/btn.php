@@ -1,0 +1,1 @@
+	<input type="submit" name="submit" value="INGRESAR AL SISTEMA RESTAURANT" class="form-control btn btn-danger">
